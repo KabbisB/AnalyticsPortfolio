@@ -26,6 +26,7 @@ Feel free to reach out to discuss analytics, collaborate on projects, or just co
 - **Leetcode:** [![LeetCode](https://img.shields.io/badge/-Kabbis-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Kabbis/)
 
 - **Github:** [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/KabbisB)
+---
 
 
 ## 🔧 My Skills
@@ -47,14 +48,7 @@ Feel free to reach out to discuss analytics, collaborate on projects, or just co
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabbisb&show_icons=true&locale=en" alt="kabbisb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabbisb&" alt="kabbisb" /></p>
-
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabbisb&" alt="kabbisb" /></p> 
 
 
 
@@ -65,7 +59,7 @@ Feel free to reach out to discuss analytics, collaborate on projects, or just co
 
 ---
 
-**1. Tools Used**
+## **1. Tools Used**
 
 
 **(a) Power BI for Loading and Cleaning the Data**
@@ -108,13 +102,15 @@ Feel free to reach out to discuss analytics, collaborate on projects, or just co
    **Categorical Variables:**
   
 - Sex, Smoking, Diabetes, Heart Attack Risk
+---
 
-**2. Project Description**
+## **2. Project Description**
 
 With a dataset with factors as such as age, medical history, and lifestyle choices, this project deals with making a heart attack risk prediction model. Designed a Power BI dashboard to help clinicians identify patients with high risk and the top contributors in causing the heart attacks.
 
+---
 
-**3. Key Findings**
+## **3. Key Findings**
 
 **Identified Risk Factors**
 — Smokers, people with high cholesterol and those under stress were at a higher risk of heart attacks.
@@ -131,6 +127,8 @@ With a dataset with factors as such as age, medical history, and lifestyle cho
   - **Prevention:** Promote behavior change like greater amounts of activity, cessation of smoking and reduced cholesterol levels
   - **Healthcare Policies:** Information from this model can help public health measures aimed at people at risk.
 
+---
+
 ## **4. Dashboard Overview**
 
 ![HeartAttackDashboard](Dashboard.png)
@@ -139,7 +137,7 @@ With a dataset with factors as such as age, medical history, and lifestyle cho
 
 This dashboard includes visuals which give insights into the data:
 
-**(a) Line Graph**  
+## **(a) Line Graph**  
 
 - **Risk Score Triglycerides vs Average Triglycerides:**
 
@@ -157,24 +155,24 @@ This dashboard includes visuals which give insights into the data:
 - A healthy diet was linked to a less risky score than an unhealthy diet.
 - Perhaps note the most impressive, this effect of which are both Argentina and Colombia diets on heart attack rate.
   
-**(c) Treemap**
+## **(c) Treemap**
 
 - **Smoking, Obesity and Alcohol Consumption Combined:**
 
 - This visualization highlighted how unhealthy lifestyles lead to heart attacks.
 – Risk was sharply elevated in those who smoked, were obese, or consumed alcohol.
 
-**(d) Map Visualization**
+## **(d) Map Visualization**
 
 - **Topography of High-Risk Patients:**
   
 - This map represents the number of high-risk patients across each country, with varying shades of color corresponding to the average risk of heart attack.
   
-**(e) Slicers for Filter**
+## **(e) Slicers for Filter**
 
 - **Sex**, **country**, and **age group** slices were added to filter and drill down into demographics.
 
-**(f) Upper Part (KPIs)**
+## **(f) Upper Part (KPIs)**
 
 **KPI Cards:**  
 
@@ -185,19 +183,20 @@ This dashboard includes visuals which give insights into the data:
   
 
 
-
+---
 
 
 ### 📌 Project 2:[Movies Dataset Analysis Project — IMDB](https://github.com/KabbisB/AnalyticsPortfolio/blob/main/HeartAttackPredictionReport.pbix)
 
 ---
 
-**Objective**
+## **Objective**
 
 The goal of this project is to perform exploratory and descriptive analysis on the top 1000 movies: the IMDB movie dataset. It contains extensive details about the movies such as ratings, directors, actors, genre, runtime, revenue, etc. In this analysis, we explore the movie data set and answer some SQL based questions on it to gain insights on trend in movie industry and performances of actors and directors.
 
+---
 
-**Dataset Overview**
+## **Dataset Overview**
 
 **1. Context**
 
@@ -222,7 +221,7 @@ Star1 | Star2 | Star3 | Star4 | Names of the main actors starring in the move.
 | **No_of_votes** | Total no. of votes received by the movie/show from IMDB. |
 | **Gross**          | Total revenue received by the film (USD). |
 
-
+---
 ## 🔧 Skills Used
 
 **•	Data Retrieval (SELECT):** Queried and extracted specific information from the database.
@@ -238,11 +237,12 @@ Star1 | Star2 | Star3 | Star4 | Names of the main actors starring in the move.
 
 
 - **Directors Average Rating:** Average IMDB rating of all showed movies per director
-- 
+
 - **Actor Collaboration Frequency**: How many times actors have worked a project together
 
+---
 
-**Exploratory Data Analysis (EDA)**
+## **Exploratory Data Analysis (EDA)**
 
 **1. Gross Revenue Trends**
 
@@ -269,9 +269,9 @@ Star1 | Star2 | Star3 | Star4 | Names of the main actors starring in the move.
 - Find out which actors occur the most in the dataset
 - Exploring the gross box office collection and IMDB rating of movies which have mentioned actors.
 
+---
 
-
-**Key Takeaways and Suggestions**
+## **Key Takeaways and Suggestions**
 
 **1. Revenue Drivers:**
 
@@ -293,16 +293,16 @@ Now moving on to the Genre plot: well it looks like genres such as Action and Dr
 – Know what genres will play well for certain directors and actors.
 - Discover untapped genres based on current trends
 
-**Deliverables**
+---
+## **Deliverables**
 
-1. Dataset Cleaned and Processed.
-2. SQL Queries to Answer Key Questions
-3. Plots related to EDA (e.g., revenue trends and genre analysis).
-4. A report that synthesizes findings and recommendations for action.
+1. SQL Queries to Answer Key Questions
+2. Plots related to EDA (e.g., revenue trends and genre analysis).
+3. A report that synthesizes findings and recommendations for action.
 
 ---
 
-### 📌 Project 3:Emirage Global Sales Performance Dashboard
+### 📌 Project 3:[Emirage Global Sales Performance Dashboard](https://github.com/KabbisB/AnalyticsPortfolio/blob/main/EmirageSalesDashboard.xlsx)
 
 ## Objective
 
