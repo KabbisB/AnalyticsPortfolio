@@ -5,7 +5,7 @@
 
 <h3 align="center">I am a Data Analyst with 2+ years of experience turning complex data into actionable insights. Skilled in Python, SQL, Excel, Power BI, and Tableau, I find passion in data visualization, predictive modeling,and process optimization. I have successfully executed data migration, improved decision-making velocity, and minimized operating costs. Data security and compliance are at the heart of what I do, along with business acumen and stakeholder management & Agile experience to deliver real solutions.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bf/a9/28/bfa928ce10cac9daa4e96dad113891e1.gif">
+<img align="right" alt="Coding" width="400" src="BigDataGif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabbisb&label=Profile%20views&color=0e75b6&style=flat" alt="kabbisb" /> </p>
 
