@@ -24,7 +24,6 @@ Feel free to reach out to discuss analytics, collaborate on projects, or just co
 - **Email:** [![Gmail](https://img.shields.io/badge/-kabbisbenjamin@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kabbisbenjamin@gmail.com)
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-Kabbis%20Benjamin-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kabbisbenjamin)
 - **Leetcode:** [![LeetCode](https://img.shields.io/badge/-Kabbis-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Kabbis/)
-
 - **Github:** [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/KabbisB)
 ---
 
