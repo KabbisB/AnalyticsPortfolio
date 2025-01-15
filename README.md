@@ -42,10 +42,10 @@
 
 
 
+## 📂 **Portfolio Projects**
 
 
-
-### **Project 1: [Heart Attack Prediction](https://github.com/KabbisB/KabbisB.github.io/blob/main/HeartAttackPredictionReport.pbix)**
+### 📌 Project 1: [Heart Attack Prediction](https://github.com/KabbisB/KabbisB.github.io/blob/main/HeartAttackPredictionReport.pbix)
 
 ---
 
@@ -169,7 +169,7 @@ This dashboard includes visuals which give insights into the data:
 
 
 
-### **Project 2:Movies Dataset Analysis Project — IMDB**
+### 📌 Project 2:Movies Dataset Analysis Project — IMDB
 
 ---
 
@@ -335,3 +335,14 @@ Now moving on to the Genre plot: well it looks like genres such as Action and Dr
 2. SQL Queries to Answer Key Questions
 3. Plots related to EDA (e.g., revenue trends and genre analysis).
 4. A report that synthesizes findings and recommendations for action.
+
+
+## 📬 **Contact Me**
+
+Feel free to reach out to discuss analytics, collaborate on projects, or just connect:
+
+- **📧 Email**: [kabbisbenjamin@gmail.com](mailto:kabbisbenjamin@gmail.com)
+- **🔗 LinkedIn**: [Benjamin Kabbis](https://www.linkedin.com/in/kabbisbenjamin)
+- **💻 GitHub**: [KabbisB](https://github.com/KabbisB)
+
+---
