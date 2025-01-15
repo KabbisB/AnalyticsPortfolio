@@ -10,7 +10,7 @@
 
 ## 📊 **About Me**
 
-<h3 align="center">I am a Data Analyst with 2+ years of experience turning complex data into actionable insights. Skilled in Python, SQL, Excel, Power BI, and Tableau, I find passion in data visualization, predictive modeling,and process optimization. I have successfully executed data migration, improved decision-making velocity, and minimized operating costs. Data security and compliance are at the heart of what I do, along with business acumen and stakeholder management & Agile experience to deliver real solutions.</h3>
+<p align="center">I am a Data Analyst with 2+ years of experience turning complex data into actionable insights. Skilled in Python, SQL, Excel, Power BI, and Tableau, I find passion in data visualization, predictive modeling,and process optimization. I have successfully executed data migration, improved decision-making velocity, and minimized operating costs. Data security and compliance are at the heart of what I do, along with business acumen and stakeholder management & Agile experience to deliver real solutions.</p>
 
 <img align="right" alt="Coding" width="400" src="BigDataGif.gif">
 
@@ -18,14 +18,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabbisb&label=Profile%20views&color=0e75b6&style=flat" alt="kabbisb" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kabbis benjamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kabbis benjamin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kabbis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kabbis" height="30" width="40" /></a>
-</p>
+## 📬 **Contact Me**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Feel free to reach out to discuss analytics, collaborate on projects, or just connect:
+- **Email:** [![Gmail](https://img.shields.io/badge/-kabbisbenjamin@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kabbisbenjamin@gmail.com)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-Kabbis%20Benjamin-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kabbisbenjamin)
+- **Leetcode:** [![LeetCode](https://img.shields.io/badge/-Kabbis-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Kabbis/)
+
+- **Github:** [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/KabbisB)
+
+
+## 🔧 My Skills
+
+| Skill                         | Icon                                                                                 |
+|-------------------------------|--------------------------------------------------------------------------------------|
+| **Data Visualization**        | ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black) |
+| **Programming**               | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) |
+| **Databases**                 | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white) |
+| **Advanced Excel**            | ![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?style=flat-square&logo=Microsoft%20Excel&logoColor=white) |
+| **Statistical Analysis**      | ![Statistics](https://img.shields.io/badge/-Statistics-9D38BD?style=flat-square&logo=GraphQL&logoColor=white) |
+| **HTML**                      | ![HTML](https://img.shields.io/badge/HTML-%23E44D26?style=flat&logo=html5&logoColor=white) 
+| **CSS**                       | ![CSS](https://img.shields.io/badge/CSS-%23296BF1?style=flat&logo=css3&logoColor=white) | 
+
+---
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabbisb&show_icons=true&locale=en&layout=compact" alt="kabbisb" /></p>
 
@@ -169,7 +185,7 @@ This dashboard includes visuals which give insights into the data:
 
 
 
-### 📌 Project 2:Movies Dataset Analysis Project — IMDB
+### 📌 Project 2:[Movies Dataset Analysis Project — IMDB](https://github.com/KabbisB/AnalyticsPortfolio/blob/main/HeartAttackPredictionReport.pbix)
 
 ---
 
@@ -337,12 +353,7 @@ Now moving on to the Genre plot: well it looks like genres such as Action and Dr
 4. A report that synthesizes findings and recommendations for action.
 
 
-## 📬 **Contact Me**
 
-Feel free to reach out to discuss analytics, collaborate on projects, or just connect:
 
-- **📧 Email**: [kabbisbenjamin@gmail.com](mailto:kabbisbenjamin@gmail.com)
-- **🔗 LinkedIn**: [Benjamin Kabbis](https://www.linkedin.com/in/kabbisbenjamin)
-- **💻 GitHub**: [KabbisB](https://github.com/KabbisB)
 
 ---
