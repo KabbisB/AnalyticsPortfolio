@@ -223,52 +223,19 @@ Star1 | Star2 | Star3 | Star4 | Names of the main actors starring in the move.
 | **Gross**          | Total revenue received by the film (USD). |
 
 
-**Discussion Points & Takeaways**
+## 🔧 Skills Used
 
-1. **Analyzer for Gross Revenue vs. Directors:**
-- Find the directors who make the most grossing movies.
-- Look into if any directors tend to make successful movies.
-2. **Gross Revenue vs. Actors:**
-- Find out what actors are involved with top grossing films.
-- Work together to see how the actors add up to box office.
-3. **Balloting Place vs. Directors:**
-- Analyze which directors draw the most (through votes) audience interaction.
-- Gain insights into director's popularity vs movie ratings
-4. **No. of Votes vs. Actors:**
-- Find out who are the most-enacted actors, on average.
-– Examine whether some combinations of actors produce greater amounts of audience engagement.
-5. **Actor-Genre Preferences:**
-It might not be a gift (or is it?) — at least not if there are specific genres that are preferred by certain actors.
-- What genres are top stars gravitating toward?
-6. **Pairing of Actors and IMDB Ratings:**
-- Find the leading combinations of actors that drive high IMDB scores.
-- Check if certain pairings are correlated with genres.
-7. **Actor Pairings and Gross Revenue**
-- Find pairs of actors with high revenue.
-- Look for trends / correlations between actors working together and making money.
+**•	Data Retrieval (SELECT):** Queried and extracted specific information from the database.
+
+**•	Data Aggregation (e.g SUM, MIN, MAX, COUNT):** Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+
+**•	Data Filtering (e.g WHERE, BETWEEN, IN, AND):** Applied filters to select relevant data, including filtering by ranges and lists.
+
+**•	Data Source Specification (FROM):** Specified the tables used as data sources for retrieval
+
+**•	Data Joins (e.g SELF JOIN, INNER JOIN):**
 
 
-**Dataset Preparation**
-
-**1. Data Cleaning**
-
-– **Completed missing values:**
-
-- And then apply any technique to fill in any missing values for the columns `Meta_score`, `Gross`, etc.
-
-- **Standardizing Formats:**
-- 
-- Cast `Released_Year` as a numeric.
-- `Gross` and `Runtime` formatting for numerical analysis
-- 
-- **Removing Duplicates:**
-  
-- Remove duplicated entries to have correct results.
-
-**2. Derived Metrics**
-
-— Measure advanced insights:
-Gross / No. of Votes = Revenue per Vote
 
 - **Directors Average Rating:** Average IMDB rating of all showed movies per director
 - 
@@ -301,29 +268,7 @@ Gross / No. of Votes = Revenue per Vote
 
 - Find out which actors occur the most in the dataset
 - Exploring the gross box office collection and IMDB rating of movies which have mentioned actors.
-  
 
-**SQL-Based Questions**
-
-1. **Top 5 Grossing Movies:**
-
-
-2. **Average Gross and Top Directors:**
-   
-```sql
-
-```
-3. **Most Voted Movies:**
-
-   
-```sql
-
-```
-4. **Most Frequent Actor Combos:**
-   
-```sql
-
-```
 
 
 **Key Takeaways and Suggestions**
@@ -355,8 +300,130 @@ Now moving on to the Genre plot: well it looks like genres such as Action and Dr
 3. Plots related to EDA (e.g., revenue trends and genre analysis).
 4. A report that synthesizes findings and recommendations for action.
 
+---
 
+### 📌 Project 2:Emirage Global Sales Performance Dashboard
 
+## Objective
 
+The aim of this project is to create a simple and interactive sales performance dashboard in Excel using the provided dataset. The dashboard will highlight essential metrics, track performance, and help identify areas for improvement.
 
 ---
+
+## 1. Project Scope
+
+### 1.1 Overview
+
+The dashboard will include:
+- Key metrics such as Sales Completion Rate, Profit Completion Rate, and Customer Completion Rate.
+- Visual elements like pie charts, line charts, bar charts, radar charts, and map charts to display trends and performance across different regions.
+- Interactive filters to sort data by Month, Quarter, and Region for more detailed analysis.
+
+### 1.2 Audience
+
+This dashboard is intended for:
+- Sales managers and leaders who want to monitor sales performance.
+- Regional teams requiring insights on local sales performance.
+- Decision-makers seeking to spot patterns and areas for potential growth.
+
+### 1.3 Tools and Technologies
+
+- **Microsoft Excel**: Used for building and displaying the dashboard.
+- **Excel Features**: PivotTables, Charts, Slicers, and Conditional Formatting.
+
+---
+
+## 2. Dataset Overview
+
+### 2.1 Data Fields
+
+The dataset includes the following fields:
+- **Month**: Time of sale (e.g., Jan-23, Feb-23).
+- **Region**: Geographic regions (e.g., Argentina, Brazil).
+- **Sales**: Total sales during that period and region.
+- **Profit**: Total profit during that period and region.
+- **Target Sales**: Sales goals for the region.
+- **Customers**: Number of customers served.
+- **Quarter**: Fiscal quarter (e.g., Q1).
+- **Completion Rates**: Sales, Profit, and Customer completion rates represented as percentages.
+
+---
+
+## 3. Dashboard Design
+
+### 3.1 Layout and Components
+
+#### Header Section:
+- **Title**: Emirage Global Sales Performance Dashboard.
+- **Logo**: Company branding.
+
+#### Charts Section:
+1. **Line Chart**: Monthly Sales vs. Target Sales.
+2. **Bar Chart**: Profit performance by region.
+3. **Map Chart**: Profit distribution across regions.
+4. **Radar Chart**: Sales Completion rates by region.
+5. **Pie Charts**: Average Sales Completion Rate and Profit Completion Rate.
+
+#### Filters Section:
+- **Filters** for Month, Quarter, and Region for easy data segmentation.
+
+#### Detailed Table:
+- An interactive table showing key metrics by region, such as Sales, Profit, Customers, and Completion Rates.
+
+### 3.2 Design Principles
+
+- **Color Scheme**: Professional, consistent color palette.
+- **Fonts**: Clear, easy-to-read fonts.
+- **Interactivity**: Dynamic charts and filters for a better user experience.
+- **Labels**: Descriptive titles and labels for charts to ensure clarity.
+
+---
+
+## 4. Implementation Plan
+
+### 4.1 Data Preparation
+
+1. **Import Data**: Load the dataset into Excel and format it as a table.
+2. **Clean Data**: Ensure proper number formatting (e.g., currency), check for data consistency, and remove any duplicates.
+
+### 4.2 Visualizations
+
+1. **Pie Charts**: Display Sales and Profit Completion Rates, with percentage labels.
+2. **Line Chart**: Compare Monthly Sales vs. Target Sales with markers.
+3. **Bar Chart**: Visualize Profit by Region, sorted from highest to lowest.
+4. **Map Chart**: Plot profit distribution across regions.
+5. **Radar Chart**: Compare Sales, Profit, and Customer Completion Rates by region.
+
+### 4.3 Filters
+
+- Implement filters for Month, Quarter, and Region, linking them to tables and charts for easy sorting and viewing.
+
+---
+
+## 5. Example Dashboard Layout
+
+### 5.1 Header Section
+- **Title**: Emirage Global Sales Performance Dashboard.
+- **Date Range Filter**: A dropdown for selecting Month or Quarter.
+
+---
+
+## 6. Recommendations and Insights
+
+### 6.1 High-Performing Regions
+- **Focus on successful regions** like Columbia (96% Sales Completion) to maintain momentum.
+
+### 6.2 Underperforming Regions
+- **Investigate regions with lower performance** (e.g., Chile, Los Angeles) that have completion rates below 80%.
+
+### 6.3 Customer Engagement
+- **Increase outreach** in regions with fewer customers, such as Chicago.
+
+### 6.4 Target Adjustment
+- **Adjust sales targets** for regions consistently missing their goals.
+
+---
+
+
+
+
