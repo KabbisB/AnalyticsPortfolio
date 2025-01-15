@@ -4,7 +4,7 @@
 
 ## 🚀 **Navigation**
 
-[About Me](#about-me) | [Skills](#skills) | [Projects](#projects) | [Contact](#contact)
+[About Me](#about-me) | [Contact](#contact) | [Skills](#skills)  | [Projects](#projects)
 
 ---
 
