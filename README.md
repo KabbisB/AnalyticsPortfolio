@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.finereport.com/en/wp-content/uploads/2020/03/04.gif)](https://github.com/KabbisB/KabbisB.github.io/blob/main/_config.yml)
+[![MasterHead](CoverGif.gif)](https://github.com/KabbisB/KabbisB.github.io/blob/main/_config.yml)
 <h1 align="center">Hi 👋, I'm Benjamin Kabbis</h1> 
 
 
