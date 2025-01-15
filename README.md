@@ -131,7 +131,7 @@ With a dataset with factors as such as age, medical history, and lifestyle cho
   - **Prevention:** Promote behavior change like greater amounts of activity, cessation of smoking and reduced cholesterol levels
   - **Healthcare Policies:** Information from this model can help public health measures aimed at people at risk.
 
-**4. Dashboard Overview**
+## **4. Dashboard Overview**
 
 ![HeartAttackDashboard](Dashboard.png)
 
@@ -147,7 +147,7 @@ This dashboard includes visuals which give insights into the data:
 - Triglycerides, a variety of fat in the blood, were positively associated with heart attack risk.
 - This association was stronger among males which may be due to differences in lifestyle.
   
-**(b) Donut Chart**
+## **(b) Donut Chart**
 
 
 ![RiskVsDiet](RiskVsDiet.png)
@@ -302,7 +302,7 @@ Now moving on to the Genre plot: well it looks like genres such as Action and Dr
 
 ---
 
-### 📌 Project 2:Emirage Global Sales Performance Dashboard
+### 📌 Project 3:Emirage Global Sales Performance Dashboard
 
 ## Objective
 
@@ -401,6 +401,8 @@ The dataset includes the following fields:
 ---
 
 ## 5. Example Dashboard Layout
+
+![EmirageDashboard](EmirageDashboard.png)
 
 ### 5.1 Header Section
 - **Title**: Emirage Global Sales Performance Dashboard.
