@@ -149,6 +149,9 @@ This dashboard includes visuals which give insights into the data:
   
 **(b) Donut Chart**
 
+
+![RiskVsDiet](RiskVsDiet.png)
+
 - **Average Risk Score by Diet Type**:
 
 - A healthy diet was linked to a less risky score than an unhealthy diet.
