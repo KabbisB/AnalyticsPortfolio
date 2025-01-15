@@ -35,15 +35,9 @@
 
 
 
+**Project 1: [Heart Attack Prediction](https://github.com/KabbisB/KabbisB.github.io/blob/main/HeartAttackPredictionReport.pbix)**
 
 
-
-
-
-### **Project 1: [Heart Attack Prediction](https://github.com/KabbisB/KabbisB.github.io/blob/main/HeartAttackPredictionReport.pbix)**
-
-
-----
 
 **1. Tools Used**
 
